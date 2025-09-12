@@ -3,7 +3,6 @@
   * ex1) KT_EMG
   * ex2) KT_EMG_GUI
 * `레포지토리 생성 후 레포지토리 관리를 위해 하주영 사원에게 알려주세요.`
-  * [하주영 사원 이메일](jy.h4456@arielnetworks.co.kr)
 
 # Git 주요 명령어 정리
 
