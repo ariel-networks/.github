@@ -1,6 +1,7 @@
 # 레포지토리 생성 컨벤션
 * 고객사_장비[_GUI]
-* ex) KT_EMG
+* ex1) KT_EMG
+* ex2) KT_EMG_GUI
 
 # Git 주요 명령어 정리
 
