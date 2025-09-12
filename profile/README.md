@@ -2,7 +2,7 @@
 
 | 명령어 | 설명 | 비고 |
 |--------|------|------|
-| `git clone [원격 저장소 주소]` | 원격 저장소 복제 | 최초 1회 실행 |
+| `git clone https://[유저이름]:[토큰]@[원격 저장소 주소]` | 원격 저장소 복제 | 최초 1회 실행 |
 | `git config user.email "본인 이메일"` | 커밋 시 사용할 이메일·이름 설정 | clone 후 해당 폴더에서 1회 실행 |
 | `git config user.name "본인 이름"` | 커밋 시 사용할 이메일·이름 설정 | clone 후 해당 폴더에서 1회 실행 |
 | `git config --global push.default simple` | 로컬 브랜치를 대응하는 원격 브랜치로 push | 전역 설정, 최초 1회 실행 |
