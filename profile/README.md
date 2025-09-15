@@ -1,3 +1,4 @@
+![core](http://arielnetworks.co.kr/solution.html#Solution1)
 # 레포지토리
 * 레포지토리 생성 컨벤션 : `고객사_장비[_GUI]`
   * ex1) KT_EMG
