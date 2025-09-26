@@ -1,9 +1,22 @@
-![core](http://arielnetworks.co.kr/images/network_core_control1.png)
 # 레포지토리
+* 레포지토리 생성 권한 
+  - github를 담당하고 있는 담당자
+* 최초 브랜치
+  * 2025/09/26 이전부터 존재한 레포지토리 -> master 브랜치
+  * 2025/09/26 이후부터 생성 레포지토리 -> main 브랜치
+    * 이유 : 레거시 장비의 경우 기본 생성 레포지토리가 master이고 최신 장비의 경우 main
+* 레포지토리 생성 갯수 
+  - 한 장비당 1개의 레포지토리
+    * GUI의 경우 용량이 크므로 별도 레포지토리로 관리
+  * 예) : EMG, GMG, EMG 국방망 -> KT_EMG 레포지토리 관리
+    * EMG와 GMG, EMG 국방망은 같은 성격의 장비이므로 KT_EMG에서 관리하며 같은 장비 다른 버전은 브랜치 머지 전략 등 다양한 방법으로 해당 프로젝트 팀에서 관리
 * 레포지토리 생성 컨벤션 : `고객사_장비[_GUI]`
   * ex1) KT_EMG
   * ex2) KT_EMG_GUI
-* `레포지토리 생성 후 레포지토리 관리를 위해 하주영 사원에게 알려주세요.`
+* [관리 레포지토리 목록](https://docs.google.com/spreadsheets/d/1JK8IRUI7yCxIeYydr1r_LyKSFzNtajCdduuyxfkxOGE/edit?gid=804040885#gid=804040885)
+* `레포지토리 생성이 필요할 경우, 하주영 사원에게 알려주세요.`
+
+---
 
 # Git 주요 명령어 정리
 
