@@ -15,7 +15,7 @@
   * ex2) KT_EMG_GUI
 * [관리 레포지토리 목록](https://docs.google.com/spreadsheets/d/1JK8IRUI7yCxIeYydr1r_LyKSFzNtajCdduuyxfkxOGE/edit?gid=804040885#gid=804040885)
 * `레포지토리 생성이 필요할 경우, 하주영 사원에게 알려주세요.`
-
+* [협업 방법](https://heyday2024.tistory.com/35)
 ---
 
 # Git 주요 명령어 정리
