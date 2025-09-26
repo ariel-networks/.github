@@ -16,6 +16,9 @@
 * [관리 레포지토리 목록](https://docs.google.com/spreadsheets/d/1JK8IRUI7yCxIeYydr1r_LyKSFzNtajCdduuyxfkxOGE/edit?gid=804040885#gid=804040885)
 * `레포지토리 생성이 필요할 경우, 하주영 사원에게 알려주세요.`
 * [협업 방법](https://heyday2024.tistory.com/35)
+* Q & A
+  * Q : GUI의 경우 같은 장비지만 다른 성격의 파일이 있는데 어떻게 하나요? ex) KT_EMG_GUI, KT_EMG_RULE_GUI
+  * A : KT_EMG_GUI 레포지토리로 묶고 폴더로 구분해서 관리하는 방법과 브랜치로 구분해서 관리하는 방법이 있습니다.
 ---
 
 # Git 주요 명령어 정리
